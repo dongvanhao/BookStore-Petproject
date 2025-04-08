@@ -1,0 +1,13 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\bin\Debug\net8.0\BookStore.Common.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\bin\Debug\net8.0\BookStore.Common.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\bin\Debug\net8.0\BookStore.Common.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.csproj.AssemblyReference.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.sourcelink.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\refint\BookStore.Common.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\BookStore.Common.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\BookStore\BookStore.Common\obj\Debug\net8.0\ref\BookStore.Common.dll
