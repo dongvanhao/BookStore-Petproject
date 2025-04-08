@@ -1,91 +1,86 @@
 # 📚 BookStore – PetProject
 
-> Hệ thống quản lý bán sách online xây dựng bằng ASP.NET Core theo kiến trúc **Clean Architecture**.
+> Hệ thống quản lý bán sách online bằng **ASP.NET Core 8** theo kiến trúc **Clean Architecture**.
 
 ---
 
-## 🎯 Mục tiêu dự án
+## 🎯 Mục tiêu
 
-- ✅ CRUD sách, lọc/sắp xếp theo thể loại, giá, đánh giá
-- ✅ Quản lý người dùng (Admin & Customer)
-- ✅ Giỏ hàng & Đặt hàng
-- ✅ API rõ ràng, có logging, xử lý lỗi tốt
-- ✅ Áp dụng quy trình Dev thực tế (GitHub, CI/CD, AutoMapper, Middleware,...)
-
----
-
-## 🏗️ Kiến trúc – Clean Architecture
-
-
-> ✅ Tuân theo nguyên tắc Dependency Rule: `Domain` → `Application` → `Infrastructure` → `API`
+- CRUD sách, lọc/sắp xếp
+- Quản lý người dùng (Admin/Customer)
+- Giỏ hàng & Đặt hàng
+- Áp dụng quy trình Dev chuyên nghiệp: GitHub, CI/CD, AutoMapper, Middleware,...
 
 ---
 
-## 🧰 Công nghệ sử dụng
+## 🏗 Kiến trúc Clean Architecture
+
+
+> Theo đúng nguyên tắc: `Domain → Application → Infrastructure → API`
+
+---
+
+## 🧰 Công nghệ chính
 
 | Công nghệ | Mục đích |
-|-----------|----------|
-| ASP.NET Core 8 | Web API framework |
-| Entity Framework Core | ORM – quản lý dữ liệu |
-| SQL Server | Cơ sở dữ liệu chính |
-| AutoMapper | Map giữa Entity ↔ DTO |
-| FluentValidation | Validate dữ liệu đầu vào |
-| Serilog (tuỳ chọn) | Ghi log nghiệp vụ |
-| GitHub Actions | CI/CD (Build + Test) |
-| Swagger | Test API trực quan |
+|----------|----------|
+| ASP.NET Core 8 | Web API |
+| EF Core + SQL Server | ORM + CSDL |
+| AutoMapper | Mapping DTO ↔ Entity |
+| FluentValidation | Validate đầu vào |
+| GitHub Actions | CI tự động build/test |
+| Swagger | Test API |
 
 ---
 
-## 🚀 Cài đặt và chạy dự án
-## 🧠 Những kỹ thuật nổi bật
+## 🔍 Kỹ thuật nổi bật
 
-| Kỹ thuật                              | Giải thích |
-|---------------------------------------|------------|
-| **Result<T> pattern**                 | Chuẩn hóa kết quả trả về (Success/Fail + message + data) |
-| **Middleware**                        | Bắt lỗi toàn cục → trả lỗi rõ ràng |
-| **Repository Pattern**                | Truy xuất dữ liệu tách biệt DB |
-| **AutoMapper**                        | Chuyển DTO ↔ Entity tự động |
-| **ValidationFilter + FluentValidation** | Validate đầu vào đẹp, rõ, dễ test |
-| **GitHub Actions**                    | CI/CD: Tự động build, test khi push code |
+- ✅ `Result<T>` Pattern
+- ✅ Middleware xử lý lỗi toàn cục
+- ✅ Repository Pattern
+- ✅ AutoMapper & FluentValidation
+- ✅ GitHub Actions CI
 
 ---
 
 ## 📦 Module chính
 
-### 📘 Book
-- Thêm, sửa, xóa sách
-- Lọc theo tên, thể loại, giá
-
-### 👤 User
-- Đăng ký, đăng nhập
-- Phân quyền: Admin / Customer
-
-### 🛒 Cart & Order
-- Thêm vào giỏ
-- Xem giỏ hàng
-- Đặt hàng → tạo Order + OrderItem
-- Xóa giỏ hàng sau khi đặt
+| Module | Mô tả |
+|--------|------|
+| 📘 Book | CRUD, lọc theo thể loại, giá |
+| 👤 User | Đăng ký, đăng nhập, phân quyền |
+| 🛒 Cart & Order | Thêm giỏ, đặt hàng, tạo OrderItem |
 
 ---
 
-## 🛠 Các tiện ích hỗ trợ
+## 🛠 Hỗ trợ
 
-| Tên thư mục        | Mục đích |
-|--------------------|----------|
-| `Helpers/`         | Các hàm tái sử dụng như format thời gian, sinh mã,... |
-| `Constants/`       | Tránh hardcode `"admin"`, `"not found"` ở nhiều nơi |
-| `Extensions/`      | Gói gọn cấu hình DI, Swagger, Auth, Logging,... |
+| Thư mục | Mục đích |
+|--------|----------|
+| `Helpers/` | Hàm dùng lại (format, tạo mã,...) |
+| `Constants/` | Tránh hardcode |
+| `Extensions/` | Setup DI, Swagger, Auth,... |
 
 ---
 
-## 📌 TODO – Những tính năng có thể phát triển thêm
+## 📌 TODO
 
-- [ ] ✅ Thêm **JWT Authentication**
-- [ ] ✅ Tạo **trang quản lý Admin**
-- [ ] ✅ Thêm **tính năng đánh giá sách (Review)**
-- [ ] ✅ Viết **Unit Test** (xUnit + Moq)
-- [ ] ✅ Tích hợp **Docker**, hoặc **Railway** để deploy
+- [ ] JWT Authentication
+- [ ] Trang quản trị Admin
+- [ ] Đánh giá sách (Review)
+- [ ] Unit Test (xUnit + Moq)
+- [ ] Docker hoặc Railway deploy
 
+---
+
+## 🚀 Cài đặt nhanh
+
+```bash
+git clone https://github.com/dongvanhao/BookStore-Petproject.git
+cd BookStore-Petproject
+dotnet ef database update -s BookStore.API -p BookStore.Infrastructure
+dotnet run --project BookStore.API
+```
 ---
 
 ## 👨‍💻 Tác giả
@@ -96,11 +91,3 @@
 ---
 
 > ✨ Cảm ơn bạn đã xem qua dự án này! Nếu bạn thấy hữu ích, hãy ⭐️ Star để ủng hộ nhé!
-
-### 1. Clone dự án
-
-```bash
-git clone https://github.com/dongvanhao/BookStore-Petproject.git
-cd BookStore-Petproject
-```
-
