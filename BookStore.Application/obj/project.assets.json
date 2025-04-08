@@ -2994,6 +2994,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "BookStore.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookStore.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.Common.dll": {}
+        }
+      },
+      "BookStore.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookStore.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.Domain.dll": {}
+        }
       }
     }
   },
@@ -8510,11 +8536,23 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "BookStore.Common/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.Common/BookStore.Common.csproj",
+      "msbuildProject": "../BookStore.Common/BookStore.Common.csproj"
+    },
+    "BookStore.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.Domain/BookStore.Domain.csproj",
+      "msbuildProject": "../BookStore.Domain/BookStore.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
+      "BookStore.Common >= 1.0.0",
+      "BookStore.Domain >= 1.0.0",
       "FluentValidation.AspNetCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0"
     ]
@@ -8550,7 +8588,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj": {
+              "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj"
+            },
+            "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -56,3 +56,4 @@ namespace BookStore.Domain.Entities
         public List<CartItem> CartItem { get; set; } = new();
         public List<OrderItem> OrderItem { get; set; } = new();
     }
+}

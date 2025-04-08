@@ -29,5 +29,10 @@ namespace BookStore.Infrastructure.Data
 
             base.OnModelCreating(modelBuilder);
         }
+
+        internal async Task<Cart?> FirstOrDefaultAsync(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

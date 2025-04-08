@@ -4,14 +4,100 @@
     "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj": {
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\BookStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj",
-        "projectName": "BookStore.API",
-        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj",
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
+        "projectName": "BookStore.Application",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
         "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\obj\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dongv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj"
+              },
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj",
+        "projectName": "BookStore.Common",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj",
+        "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,11 +136,261 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectName": "BookStore.Domain",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dongv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+        "projectName": "BookStore.Infrastructure",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dongv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj"
+              },
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj",
+        "projectName": "BookStore.API",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\BookStore.API.csproj",
+        "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dongv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\BookStore.Application.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\BookStore.Application.csproj"
+              },
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\BookStore.Common.csproj"
+              },
+              "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
