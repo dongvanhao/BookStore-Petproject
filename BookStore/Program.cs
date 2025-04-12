@@ -1,5 +1,6 @@
 
 using System;
+using BookStore.Application.Mapping;
 using BookStore.Domain.Entities;
 using BookStore.Domain.Interfaces;
 using BookStore.Infrastructure.Data;
@@ -19,6 +20,8 @@ builder.Services.AddScoped<ICartRepository, CartRepository>();
 builder.Services.AddScoped<ICartItemRepository, CartItemRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderItemRepository, OrderItemRepository>();
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
