@@ -16,10 +16,12 @@ namespace BookStore.Infrastructure.Repository
         public GenericRepository(AppDbContext context)
         {
             _context = context;
+            _dbSet = _context.Set<T>();
         }
         public async Task<IEnumerable<T>> GetAllAsync()//Lay tat ca cac ban ghi cua T
         {
             return await _dbSet.ToListAsync();
+
         }
         public async Task<T> GetByIdAsync(int id)//Lay ban ghi cua T theo id
         {

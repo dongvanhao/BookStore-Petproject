@@ -3,6 +3,106 @@
   "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CD0759A-0E28-4127-8E7A-F6740461751E}|BookStore.Tests\\BookStore.Tests.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.tests\\services\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD0759A-0E28-4127-8E7A-F6740461751E}|BookStore.Tests\\BookStore.Tests.csproj|solutionrelative:bookstore.tests\\services\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.common\\rusults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|solutionrelative:bookstore.common\\rusults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|solutionrelative:bookstore\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|solutionrelative:bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\dtos\\books\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\books\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\dtos\\books\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\books\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\validators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\validators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,48 +171,8 @@
       "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\books\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\dtos\\books\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\books\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\dtos\\books\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\dtos\\books\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB45F62A-F6B9-42F3-94D9-FD993927C009}|BookStore.Application\\BookStore.Application.csproj|solutionrelative:bookstore.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE33D9B3-B71F-4ACE-94D7-B07F28F951E6}|BookStore\\BookStore.API.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,16 +191,8 @@
       "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAE9C0A7-E730-4E5F-B1F1-07DB34EFF9AB}|BookStore.Domain\\BookStore.Domain.csproj|solutionrelative:bookstore.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|solutionrelative:bookstore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -181,10 +225,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|solutionrelative:bookstore.common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.common\\rusult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B1ECE7-997C-403E-AF24-7AB065C342D3}|BookStore.Common\\BookStore.Common.csproj|solutionrelative:bookstore.common\\rusult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B55858C5-BBEC-45D0-BD8F-5609BDB9108A}|BookStore.Infrastructure\\BookStore.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\bookstore\\bookstore.infrastructure\\migrations\\20250408075028_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,7 +238,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 308,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -206,228 +246,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BookServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Tests\\Services\\BookServiceTests.cs",
+              "RelativeDocumentMoniker": "BookStore.Tests\\Services\\BookServiceTests.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Tests\\Services\\BookServiceTests.cs",
+              "RelativeToolTip": "BookStore.Tests\\Services\\BookServiceTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:26:54.612Z",
+              "WhenOpened": "2025-04-13T21:17:23.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\LoginDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\LoginDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Rusults.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\Rusults.cs",
+              "RelativeDocumentMoniker": "BookStore.Common\\Rusults.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\Rusults.cs",
+              "RelativeToolTip": "BookStore.Common\\Rusults.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:26:43.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:00:34.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:26:36.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:05:08.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UserDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\UserDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UserDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:00.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "BookStore.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:05:54.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:54.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:08.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddToCartDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:04:51.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:04:11.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateOderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookStore\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:22:10.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T20:15:23.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "BookStore.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC0AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:03.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:03:30.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BookStore\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BookStore\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:17:59.471Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:45.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CartDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\CartDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\CartDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:00:18.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\CartItem.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\CartItem.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\CartItem.cs",
-              "RelativeToolTip": "BookStore.Domain\\Entities\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:31.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "BookStore.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:36.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Cart.cs",
-              "RelativeToolTip": "BookStore.Domain\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:20.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
-              "RelativeToolTip": "BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:04:30.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "CreateBookDto.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\CreateBookDto.cs",
               "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Books\\CreateBookDto.cs",
@@ -435,12 +327,71 @@
               "RelativeToolTip": "BookStore.Application\\DTOs\\Books\\CreateBookDto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:04:22.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T08:04:22.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "BookStore.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:04:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:21:00.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:55:39.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:10:20.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\BookDto.cs",
               "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Books\\BookDto.cs",
@@ -448,25 +399,359 @@
               "RelativeToolTip": "BookStore.Application\\DTOs\\Books\\BookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:59:53.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:59:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Validators\\CreateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Validators\\CreateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Validators\\CreateBookDtoValidator.cs",
+              "RelativeToolTip": "BookStore.Application\\Validators\\CreateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:16:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "BookStore.Infrastructure\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:55:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "BookStore.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:53:04.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "BookStore.Domain\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:53:28.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:04:21.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\CartItemService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\CartItemService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\CartItemService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\CartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:03:54.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Book.cs",
-              "RelativeToolTip": "BookStore.Domain\\Entities\\Book.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Services\\CartService.cs",
+              "RelativeToolTip": "BookStore.Application\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:14.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T13:03:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:11:11.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\ICartItemService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartItemService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\ICartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:11:32.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderItemService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\IOrderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:11:45.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:12:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "BookStore.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:11:22.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "BookStore.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:05:54.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:54.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UserDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:05:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\LoginDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:26:43.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:26:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Users\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:26:54.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:08.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:04:51.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateOderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Orders\\CreateOderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:22:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "BookStore.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:03.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:45.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Carts\\CartDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Carts\\CartDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Carts\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:00:18.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "BookStore.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "BookStore.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "BookStore.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:26:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
+              "RelativeToolTip": "BookStore.Application\\DTOs\\Books\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:04:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Entities\\OrderItem.cs",
@@ -474,103 +759,11 @@
               "RelativeToolTip": "BookStore.Domain\\Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:26:46.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:26:46.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:12:16.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IOrderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderItemService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IOrderItemService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderItemService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IOrderItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:11:45.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ICartItemService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartItemService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\ICartItemService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartItemService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\ICartItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:11:32.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:11:22.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\ICartService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:11:11.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "BookStore.Application\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Application\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "BookStore.Application\\Interfaces\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:10:20.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Program.cs",
-              "RelativeDocumentMoniker": "BookStore\\Program.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\Program.cs",
-              "RelativeToolTip": "BookStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:21:00.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\UserRepository.cs",
@@ -578,38 +771,23 @@
               "RelativeToolTip": "BookStore.Infrastructure\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:56:01.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:56:01.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 45,
               "Title": "OrderItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\OrderItemRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\OrderItemRepository.cs",
               "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\OrderItemRepository.cs",
               "RelativeToolTip": "BookStore.Infrastructure\\Repository\\OrderItemRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:56:43.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:56:43.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeToolTip": "BookStore.Infrastructure\\Repository\\BookRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCkAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:55:50.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "CartItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\CartItemRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\CartItemRepository.cs",
@@ -617,12 +795,11 @@
               "RelativeToolTip": "BookStore.Infrastructure\\Repository\\CartItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:56:31.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:56:31.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 46,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\CartRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\CartRepository.cs",
@@ -630,38 +807,23 @@
               "RelativeToolTip": "BookStore.Infrastructure\\Repository\\CartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:56:17.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:56:17.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "BookStore.Infrastructure\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:55:39.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 44,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Repository\\OrderRepository.cs",
               "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Repository\\OrderRepository.cs",
               "RelativeToolTip": "BookStore.Infrastructure\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:57:03.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:57:03.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 48,
               "Title": "IOrderItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IOrderItemRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IOrderItemRepository.cs",
@@ -669,12 +831,11 @@
               "RelativeToolTip": "BookStore.Domain\\Interfaces\\IOrderItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:55:19.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:55:19.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 49,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IOrderRepository.cs",
@@ -682,25 +843,11 @@
               "RelativeToolTip": "BookStore.Domain\\Interfaces\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:54:15.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:54:15.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "BookStore.Domain\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:53:04.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "ICartItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\ICartItemRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\ICartItemRepository.cs",
@@ -708,12 +855,11 @@
               "RelativeToolTip": "BookStore.Domain\\Interfaces\\ICartItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:54:59.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:54:59.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\ICartRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\ICartRepository.cs",
@@ -721,12 +867,11 @@
               "RelativeToolTip": "BookStore.Domain\\Interfaces\\ICartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:54:36.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:54:36.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IUserRepository.cs",
@@ -734,25 +879,11 @@
               "RelativeToolTip": "BookStore.Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:54:00.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:54:00.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.Domain\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Domain\\Interfaces\\IBookRepository.cs",
-              "RelativeToolTip": "BookStore.Domain\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:53:28.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 56,
               "Title": "20250408075028_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Migrations\\20250408075028_InitialCreate.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Migrations\\20250408075028_InitialCreate.cs",
@@ -760,25 +891,23 @@
               "RelativeToolTip": "BookStore.Infrastructure\\Migrations\\20250408075028_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:50:28.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:50:28.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BookStore.Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "BookStore.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvwkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:38:51.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:38:51.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore\\appsettings.json",
               "RelativeDocumentMoniker": "BookStore\\appsettings.json",
@@ -786,12 +915,11 @@
               "RelativeToolTip": "BookStore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T07:20:05.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:20:05.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 55,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\Enums.cs",
               "RelativeDocumentMoniker": "BookStore.Common\\Enums.cs",
@@ -799,21 +927,7 @@
               "RelativeToolTip": "BookStore.Common\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:00:58.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Rusult.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\Rusult.cs",
-              "RelativeDocumentMoniker": "BookStore.Common\\Rusult.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\BookStore\\BookStore.Common\\Rusult.cs",
-              "RelativeToolTip": "BookStore.Common\\Rusult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:00:34.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:00:58.57Z"
             }
           ]
         },

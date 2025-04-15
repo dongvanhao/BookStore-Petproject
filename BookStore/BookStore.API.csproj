@@ -18,10 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Middleware\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BookStore.Application\BookStore.Application.csproj" />
     <ProjectReference Include="..\BookStore.Common\BookStore.Common.csproj" />
     <ProjectReference Include="..\BookStore.Infrastructure\BookStore.Infrastructure.csproj" />

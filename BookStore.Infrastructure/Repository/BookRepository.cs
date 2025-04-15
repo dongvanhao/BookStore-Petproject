@@ -19,7 +19,10 @@ namespace BookStore.Infrastructure.Repository
         }
         public async Task<IEnumerable<Book>> SearchAsync(string? keyword, int page, int pageSize)
         {
-            var query = _context.Books.AsNoTracking();//AsNoTracking giúp truy vấn nhẹ,chỉ đọc dữ liệu
+            var query = _context.Books
+        .AsNoTracking()
+        .Where(b => b.IsActive); // ✅ Lọc chỉ những sách đang hoạt động
+
 
             if (!string.IsNullOrWhiteSpace(keyword))
             {
