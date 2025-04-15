@@ -21,8 +21,5 @@ namespace BookStore.Application.DTOs.Users
         [Required]
         [MinLength(6)]
         public string Password { get; set; } = null!;
-
-        public string? Phone { get; set; }
-        public string? Address { get; set; }
     }
 }
