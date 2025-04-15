@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BookStore.Domain.Interfaces
 {
-    public interface IBookRepository
+    public interface IBookRepository : IGenericRepository<Book>
     {
         Task<IEnumerable<Book>> SearchAsync(string ? keyword, int page, int pageSize);
         Task<int> CountAsync(string? keyword);
