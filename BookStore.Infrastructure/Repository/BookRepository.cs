@@ -17,18 +17,17 @@ namespace BookStore.Infrastructure.Repository
         {
             _context = context;
         }
-        public async Task<IEnumerable<Book>> SearchAsync(string? keyword, int page, int pageSize)
+        public async Task<List<Book>> SearchAsync(string? keyword, int page, int pageSize)
         {
             var query = _context.Books
-        .AsNoTracking()
-        .Where(b => b.IsActive); // ✅ Lọc chỉ những sách đang hoạt động
-
+                .Where(b => b.IsActive) // chỉ lấy sách chưa bị xóa mềm
+                .AsQueryable().AsNoTracking();
 
             if (!string.IsNullOrWhiteSpace(keyword))
             {
                 query = query.Where(b =>
-                    b.Title.Contains(keyword) ||
-                    b.Author.Contains(keyword));
+                     b.Title.ToLower().Contains(keyword) || // cho tìm gần đúng tiêu đề
+                    b.Author.ToLower() == keyword);        // chính xác tên tác giả
             }
 
             return await query

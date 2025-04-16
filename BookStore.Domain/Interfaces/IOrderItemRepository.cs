@@ -9,8 +9,10 @@ namespace BookStore.Domain.Interfaces
 {
     public interface IOrderItemRepository : IGenericRepository<OrderItem>
     {
-        Task<List<OrderItem>> GetItemsByOrderIdAsync(int orderId);// Lay Danh Sach OrderItem THeo OrderId
+        
         Task<int> GetTotalQuantityAsync(int orderId); // Tinh Tong So Luong San Pham Trong Don Hang
         Task<decimal> GetOrderTotalAsync(int orderId); //Tinh Tong Tien Cua Don Hang
+        Task<List<OrderItem>> GetByOrderIdAsync(int orderId);
+
     }
 }
