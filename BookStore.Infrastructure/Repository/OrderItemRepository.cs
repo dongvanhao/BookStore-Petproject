@@ -15,13 +15,7 @@ namespace BookStore.Infrastructure.Repository
         public OrderItemRepository(AppDbContext context) : base(context)
         {
         }
-        public async Task<List<OrderItem>> GetItemsByOrderIdAsync(int orderId)
-        {
-            return await _dbSet
-                .Include(oi => oi.Book)
-                .Where(oi => oi.OrderId == orderId)
-                .ToListAsync();
-        }
+        
 
         public async Task<int> GetTotalQuantityAsync(int orderId)
         {
@@ -36,6 +30,14 @@ namespace BookStore.Infrastructure.Repository
                 .Where(oi => oi.OrderId == orderId)
                 .SumAsync(oi => oi.Quantity * oi.Price);
         }
+        public async Task<List<OrderItem>> GetByOrderIdAsync(int orderId)
+        {
+            return await _context.OrderItems
+                .Where(oi => oi.OrderId == orderId)
+                .Include(oi => oi.Book)
+                .ToListAsync();
+        }
+
     }
-    
+
 }

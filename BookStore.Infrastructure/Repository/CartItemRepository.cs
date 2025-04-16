@@ -34,5 +34,13 @@ namespace BookStore.Infrastructure.Repository
             var items = await _dbSet.Where(ci => ci.CartId == cartId).ToListAsync();
             _dbSet.RemoveRange(items);
         }
+        public async Task<List<CartItem>> GetByCartIdAsync(int cartId)
+        {
+            return await _context.CartItems
+                .Include(ci => ci.Book)
+                .Where(ci => ci.CartId == cartId)
+                .ToListAsync();
+        }
+
     }
 }

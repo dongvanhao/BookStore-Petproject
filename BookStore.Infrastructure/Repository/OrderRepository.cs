@@ -29,5 +29,22 @@ namespace BookStore.Infrastructure.Repository
                 .ThenInclude(oi => oi.Book)
                 .FirstOrDefaultAsync(o => o.Id == orderId);
         }
+        public async Task<List<Order>> GetOrdersByUserIdAsync(int userId)
+        {
+            return await _context.Orders
+                .Where(o => o.UserId == userId)
+                .Include(o => o.OrderItems)
+                    .ThenInclude(oi => oi.Book)
+                .ToListAsync();
+        }
+
+        public async Task<Order?> GetOrderWithItemsAsync(int orderId)
+        {
+            return await _context.Orders
+                .Include(o => o.OrderItems)
+                    .ThenInclude(oi => oi.Book)
+                .FirstOrDefaultAsync(o => o.Id == orderId);
+        }
+
     }
 }

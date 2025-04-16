@@ -11,6 +11,7 @@ namespace BookStore.Application.DTOs.Carts
     {
         [Required]
         public int BookId { get; set; }
+        public int UserId { get; set; }
 
         [Range(1, int.MaxValue, ErrorMessage = "Số lượng tối thiểu là 1")]
         public int Quantity { get; set; }

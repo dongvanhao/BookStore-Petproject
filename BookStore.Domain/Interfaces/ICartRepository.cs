@@ -11,5 +11,8 @@ namespace BookStore.Domain.Interfaces
     {
         Task<Cart?> GetCartByUserIdAsync(int UserId);//Lay gio hangf theo UserID
         Task<Cart?> GetCartWithItemsAsync(int cartId);//Lay gio hang Chi Tiet(Cart + CartItems + Book)
+        Task<bool> AddItemAsync(int userId, int bookId, int quantity); // ✅ THÊM
+        Task<bool> RemoveItemAsync(int cartItemId); // ✅ XOÁ MỤC
+        Task ClearCartAsync(int userId); // ✅ XOÁ TẤT CẢ
     }
 }
